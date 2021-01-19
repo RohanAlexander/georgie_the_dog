@@ -1,5 +1,5 @@
-# georgie_the_dog
+# starter_folder
 
-Notes and code exploring Toronto homelessness.
+This repo....
 
-She's a good dog 8/10.
+It is organised as follows...
